@@ -1,3 +1,7 @@
+![Alt text](Neptune_3_UI.gif?raw=true "Neptune_3_UI")
+
+![Alt text](Remote_Settings_App.gif?raw=true "Remote_Settings_App")
+
 # Qt Ivi
 
  - Install Android Qt_5_12_2 from MaintenanceTool
